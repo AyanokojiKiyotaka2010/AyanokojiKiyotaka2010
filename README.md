@@ -128,7 +128,7 @@ Git · GitHub · VS Code · LaTeX
 
 Selected Work
 
-Research
+Public Research
 
 geo-sum-prime-research
 
@@ -138,91 +138,21 @@ Research-oriented computational work involving prime-related mathematical proble
 
 Visibility: Public
 
-Systems & Algorithms
+Private Research & Engineering
 
-chess-engine
+A number of additional projects are currently under private development across areas including:
 
-C++ · Algorithms · Search · Game Systems
+Systems & Algorithms — C/C++ projects involving engines, search, low-level programming, and performance-oriented implementation.
 
-A chess-engine project focused on algorithmic search, board-state handling, and systems-oriented implementation.
+Software Engineering — TypeScript/JavaScript applications involving productivity, search, data management, and backend architecture.
 
-Visibility: Private · In Development
+Developer Tools & AI Systems — Experiments involving developer tooling, AI-assisted workflows, and context-oriented systems.
 
-Software Engineering
+Computer Vision & AI — Work involving vehicle analysis, tracking, OCR, image processing, and intelligent systems.
 
-problem-tracker
+Web & Full-Stack Development — Frontend, backend, and portfolio-oriented applications using modern web technologies.
 
-TypeScript · Productivity · Spaced Repetition · Search
-
-A problem-tracking system with spaced repetition, gap analysis, fuzzy search, and bulk operations.
-
-Visibility: Private · In Development
-
-Systems Programming
-
-codecrafters-shell-c
-
-C · Shell · Systems Programming
-
-Implementation-oriented work exploring shell behavior and systems-level programming concepts.
-
-Visibility: Private · In Development
-
-Developer Tools / AI Systems
-
-codecrafters-claude-code-cpp
-
-C++ · Developer Tools · AI Coding Systems
-
-Implementation-oriented exploration of developer tooling and AI-assisted coding systems.
-
-Visibility: Private · In Development
-
-Computer Vision / AI
-
-UrbanSight
-
-Computer Vision · Vehicle Detection · Tracking · OCR
-
-A computer-vision system focused on vehicle analysis, tracking, number-plate processing, OCR, and traffic intelligence.
-
-Visibility: In Development
-
-AI / Context Systems
-
-NeuralFlow
-
-AI Workspace · Context Systems · Software Architecture
-
-A system for organizing, compiling, and managing context across AI-oriented workflows and developer environments.
-
-Visibility: In Development
-
-Other Work
-
-Project
-
-Focus
-
-Status
-
-AURA-repo
-
-Software / Web
-
-In Development
-
-portfolio-website
-
-Web Development
-
-In Development
-
-jay-parmar-portfolio
-
-Web Development
-
-In Development
+These repositories remain private while they are being developed, tested, or prepared for public release.
 
 Open Source & Collaboration
 
