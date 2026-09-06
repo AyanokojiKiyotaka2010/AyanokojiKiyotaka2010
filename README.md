@@ -211,72 +211,65 @@ Focus: collaborative development and contribution workflow.
 
 ---
 
-## GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AyanokojiKiyotaka2010&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
-  height="180"
-  alt="GitHub Statistics"
-/>
+### Profile Overview
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyanokojiKiyotaka2010&layout=compact&theme=github_dark&hide_border=true"
-  height="180"
-  alt="Top Languages"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/overview.dark.svg">
+  <img src="./assets/profile/overview.light.svg"
+       alt="GitHub profile overview"
+       width="100%">
+</picture>
+
+### Contribution History
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/lifetime.dark.svg">
+  <img src="./assets/profile/lifetime.light.svg"
+       alt="GitHub contribution history"
+       width="100%">
+</picture>
+
+### Contributions & Streak
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/contributions.dark.svg">
+  <img src="./assets/profile/contributions.light.svg"
+       alt="GitHub contribution streak and calendar"
+       width="100%">
+</picture>
+
+### Contribution Composition
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/composition.dark.svg">
+  <img src="./assets/profile/composition.light.svg"
+       alt="GitHub contribution composition"
+       width="100%">
+</picture>
+
+### Activity Rhythm
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/rhythm.dark.svg">
+  <img src="./assets/profile/rhythm.light.svg"
+       alt="GitHub activity rhythm"
+       width="100%">
+</picture>
+
+### Language Distribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/languages.dark.svg">
+  <img src="./assets/profile/languages.light.svg"
+       alt="GitHub language distribution"
+       width="100%">
+</picture>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=AyanokojiKiyotaka2010&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
-/>
-
-</div>
-
-> GitHub's native contribution graph below the README remains the authoritative view of contribution activity.
 
 ---
 
-## Engineering & Research Approach
-
-```text
-        ┌──────────────────────┐
-        │      Understand      │
-        │   the problem first  │
-        └──────────┬───────────┘
-                   │
-                   ▼
-        ┌──────────────────────┐
-        │     Study Theory     │
-        │   and constraints    │
-        └──────────┬───────────┘
-                   │
-                   ▼
-        ┌──────────────────────┐
-        │      Implement       │
-        │   a working system   │
-        └──────────┬───────────┘
-                   │
-                   ▼
-        ┌──────────────────────┐
-        │       Measure        │
-        │ performance/behavior │
-        └──────────┬───────────┘
-                   │
-                   ▼
-        ┌──────────────────────┐
-        │      Optimize        │
-        │ identify bottlenecks │
-        └──────────┬───────────┘
-                   │
-                   ▼
-        ┌──────────────────────┐
-        │   Document & Repeat  │
-        └──────────────────────┘
